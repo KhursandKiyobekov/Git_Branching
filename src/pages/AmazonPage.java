@@ -6,6 +6,8 @@ public class AmazonPage {
     // some more staff
     // html for deals page
 
+    // team members line
+
     //html for cart page
 
 }
