@@ -1,4 +1,4 @@
-packege pages;
+package pages;
 public class ContactPage {
   
   
